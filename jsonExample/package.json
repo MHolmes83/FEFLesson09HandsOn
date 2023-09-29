@@ -1,0 +1,23 @@
+{
+  "name": "jsonexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHolmes83/FEFLesson09HandsOn\\jsonExample.git"
+  },
+  "author": "Morgaan Holmes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHolmes83/FEFLesson09HandsOn\\jsonExample/issues"
+  },
+  "homepage": "https://github.com/MHolmes83/FEFLesson09HandsOn\\jsonExample#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0"
+  }
+}
